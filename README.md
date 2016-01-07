@@ -1,3 +1,7 @@
+# ELV FS20 device drivers for thing-it-node
+
+*ATTENTION: This is unfinished work !!!*
+
 ## FS20 address mapping
 
 According to the mauals of ELV, direct entering of FS20 addresses is done using only numbers 1 to 4 which results in a numeral system with 4 symbold (base 4).
